@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/watched-movie-record/static/css/main.a83e91e6.css",
+    "main.js": "/watched-movie-record/static/js/main.8d862f99.js",
+    "index.html": "/watched-movie-record/index.html",
+    "main.a83e91e6.css.map": "/watched-movie-record/static/css/main.a83e91e6.css.map",
+    "main.8d862f99.js.map": "/watched-movie-record/static/js/main.8d862f99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a83e91e6.css",
+    "static/js/main.8d862f99.js"
+  ]
+}
