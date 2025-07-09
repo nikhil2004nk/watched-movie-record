@@ -132,7 +132,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Nikhil** - [GitHub Profile](https://github.com/nikhil2004nk)
+**Nikhil Kushwaha** - [GitHub Profile](https://github.com/nikhil2004nk)
 
 ---
 
